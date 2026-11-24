@@ -4,10 +4,13 @@ Desenvolvedor full stack. Hoje trabalho na **TrackLand**, construindo os sistema
 
 **Stack do dia a dia:** Angular, TypeScript, Python (FastAPI), Docker, SQLite e Tailwind CSS.
 
+**Também construo em:** Rust, com axum, tokio e Tauri.
+
 ## Projetos
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [Oxid](https://github.com/Gustavo-LVS/Oxid) | Chamadas de voz em grupo para jogos e trabalho: app desktop, servidor e voz em tempo real | Rust (axum, tokio, sqlx + PostgreSQL), Tauri 2, LiveKit e Astro |
 | [AgencyFlow](https://github.com/Gustavo-LVS/AgencyFlow) e [API](https://github.com/Gustavo-LVS/AgencyFlowBackEnd) | CRM para agências: leads por etapa do funil, propostas e métricas | Angular 17 com Angular Material; Node.js, Express e SQLite |
 | [chatbot](https://github.com/Gustavo-LVS/chatbot) | Chat com um modelo de linguagem rodando na própria máquina, via Ollama | Angular 20, Tailwind CSS e Docker |
 | [Weather-app](https://github.com/Gustavo-LVS/Weather-app) | Clima atual por cidade, com o fundo da tela mudando pela temperatura | Angular 20 com SSR, Tailwind CSS e OpenWeatherMap |
