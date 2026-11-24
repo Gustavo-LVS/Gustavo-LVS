@@ -15,9 +15,3 @@ Desenvolvedor full stack. Hoje trabalho na **TrackLand**, construindo os sistema
 | [chatbot](https://github.com/Gustavo-LVS/chatbot) | Chat com um modelo de linguagem rodando na própria máquina, via Ollama | Angular 20, Tailwind CSS e Docker |
 | [Weather-app](https://github.com/Gustavo-LVS/Weather-app) | Clima atual por cidade, com o fundo da tela mudando pela temperatura | Angular 20 com SSR, Tailwind CSS e OpenWeatherMap |
 | [rxjs-one-in-flight](https://github.com/Gustavo-LVS/rxjs-one-in-flight) | Operador RxJS que mantém uma requisição em voo e guarda só a última entrada, sem fila no servidor | TypeScript, RxJS 7 e Jest (marble testing) |
-
-## Como eu trabalho
-
-- Teste junto com o código, e medição antes e depois de qualquer otimização.
-- Telas que funcionam no teclado, com bom contraste e do celular ao monitor largo.
-- Cuidado com dado pessoal: o que não precisa sair do servidor, não sai.
